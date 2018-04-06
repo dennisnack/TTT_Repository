@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stub:stub xmlns:stub="http://www.compuware.com/model/xml/stub" alias="" encoding="1047" id="Unit%20Test/Stubs/DNKTDB2X_ROLLBACK_1_SQL_01.stub" nextCalltoken="80002" stubtype="SQL" target="ROLLBACK" token="80000">
+  <stub:description>Created: Jan 11, 2018 12:24:48 PM</stub:description>
+  <stub:stubdata id="0" name="ROLLBACK">
+    <stub:sqlStatus>
+      <stub:statement type="ROLLBACK">
+        <stub:text>      *****EXEC SQL ROLLBACK END-EXEC.
+</stub:text>
+      </stub:statement>
+      <stub:plist>
+        <stub:headerData>00400000009B444E4B54444232581A64959416609A4D00003815C128000000000000000004B80115000001D40000000000000000000000000000000000000000</stub:headerData>
+      </stub:plist>
+      <stub:sqlca callToken="80001">
+        <stub:rawData>E2D8D3C3C14040400000008800000000000040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040C4E2D54040404040000000000000000000000000FFFFFFFF00000000000000004040404040404040404040F0F0F0F0F0</stub:rawData>
+      </stub:sqlca>
+    </stub:sqlStatus>
+  </stub:stubdata>
+  <stub:database version="1110"/>
+</stub:stub>

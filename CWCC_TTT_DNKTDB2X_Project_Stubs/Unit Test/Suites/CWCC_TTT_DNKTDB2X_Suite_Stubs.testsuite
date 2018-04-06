@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite:testsuite xmlns:testsuite="http://www.compuware.com/model/xml/testsuite" id="Unit%20Test/Suites/CWCC_TTT_DNKTDB2X_Suite_Stubs.testsuite"><testsuite:testscenario>../Scenarios/DNKTDB2X_Scenario_1.testscenario#Unit%20Test/Scenarios/DNKTDB2X_Scenario_1.testscenario</testsuite:testscenario></testsuite:testsuite>
