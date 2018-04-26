@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.4.v20180102-2053_46?>
+<!--Topaz for Total Test 18.2.4.v20180102-2053_46 Jan 9, 2018 12:51:40 PM-->
+<testsuites>
+  <testsuite errors="0" failures="1" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC'" tests="3">
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC'" name="Check for EMP_TYPE"/>
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC'" name="Check for SALES_AMOUNT"/>
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		3300.00
+
+Expected Value:  3301</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

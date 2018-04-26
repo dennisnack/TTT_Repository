@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.4.v20180102-2053_46?>
+<!--Topaz for Total Test 18.2.4.v20180102-2053_46 Jan 16, 2018 6:39:01 AM-->
+<testExecutions version="1">
+  <file path="C:\Users\husdrn0\Compuware\Workbench\workspace\CWCC_TTT_CWXTSUBC_Project_NoStubs\Unit Test\Scenarios\CWXTSUBC_Scenario_1.testscenario">
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1' Test: Check for EMP_TYPE'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1' Test: Check for SALES_AMOUNT'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1' Test: Check for COMM_TOTAL'"/>
+  </file>
+  <file path="C:\Users\husdrn0\Compuware\Workbench\workspace\CWCC_TTT_CWXTSUBC_Project_NoStubs\Unit Test\Scenarios\CWXTSUBC_Scenario_2.testscenario">
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_2' Testcase: 'CWXTSUBCCase1' Test: Check for EMP_TYPE'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_2' Testcase: 'CWXTSUBCCase1' Test: Check for SALES_AMOUNT'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_2' Testcase: 'CWXTSUBCCase1' Test: Check for COMM_TOTAL'"/>
+  </file>
+  <file path="C:\Users\husdrn0\Compuware\Workbench\workspace\CWCC_TTT_CWXTSUBC_Project_NoStubs\Unit Test\Scenarios\CWXTSUBC_Scenario_Fail.testscenario">
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC' Test: Check for EMP_TYPE'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC' Test: Check for SALES_AMOUNT'"/>
+    <testCase duration="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_Fail' Testcase: 'CWXTSUBC' Test: Check for COMM_TOTAL'">
+      <failure message="Check for COMM_TOTAL failed">Check for COMM_TOTAL failed
+
+Actual Value:    		3300.00
+
+Expected Value:  3301</failure>
+    </testCase>
+  </file>
+</testExecutions>

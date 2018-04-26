@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.4.v20180102-2053_46?>
+<!--Topaz for Total Test 18.2.4.v20180102-2053_46 Jan 9, 2018 12:51:40 PM-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1'" tests="3">
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1'" name="Check for EMP_TYPE"/>
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1'" name="Check for SALES_AMOUNT"/>
+    <testcase classname="Project: 'CWCC_TTT_CWXTSUBC_Project_NoStubs' Scenario: 'CWXTSUBC_Scenario_1' Testcase: 'CWXTSUBCCase1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+</testsuites>
