@@ -7,6 +7,7 @@ ${TOTALTEST_JOBCARD}
 //********************************************************************
 //* Execute Target Runner
 //********************************************************************
+//*
 //RUNNER EXEC PGM=TTTRUNNR
 //*
 //* You need to modify the following DD statements.
